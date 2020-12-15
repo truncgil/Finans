@@ -9,7 +9,7 @@ Trunçgil Teknoloji #Finans #RestAPI'ın 2. versiyonu yayınlandı.
 - Kurlarda global isimler kullanıldı.
 - Türkçe karakterler ve boşluklar kaldırıldı.
 Kullanım İçin:
-https://lnkd.in/dkYnzxd
+https://finans.truncgil.com/v2/today.json
 #ReqBin Online Test Aracı : https://lnkd.in/de-fsmb
 
 https://truncgil.com.tr/altin-ve-doviz-kuru-bilgilerini-kullanacak-yazilim-gelistiricilerine-alternatif-ve-hizli-api-truncgil-finans-yayinda

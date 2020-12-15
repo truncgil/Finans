@@ -3,6 +3,17 @@ Altın ve döviz bilgilerini kullanarak yazılım geliştirme işlemini yapan ya
 API şu adresten sağlanılabilir.
 https://finans.truncgil.com/today.json
 
+API v2
+Trunçgil Teknoloji #Finans #RestAPI'ın 2. versiyonu yayınlandı.
+2. versiyonunda yenilikler:
+- Kurlarda global isimler kullanıldı.
+- Türkçe karakterler ve boşluklar kaldırıldı.
+Kullanım İçin:
+https://lnkd.in/dkYnzxd
+#ReqBin Online Test Aracı : https://lnkd.in/de-fsmb
+
+https://truncgil.com.tr/altin-ve-doviz-kuru-bilgilerini-kullanacak-yazilim-gelistiricilerine-alternatif-ve-hizli-api-truncgil-finans-yayinda
+
 Örnek Kullanım
 
     $finans = json_decode(file_get_contents("https://finans.truncgil.com/today.json"),true);

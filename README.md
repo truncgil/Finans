@@ -5,6 +5,7 @@ https://finans.truncgil.com/today.json
 
 API v2
 Trunçgil Teknoloji #Finans #RestAPI'ın 2. versiyonu yayınlandı.
+
 2. versiyonunda yenilikler:
 - Kurlarda global isimler kullanıldı.
 - Türkçe karakterler ve boşluklar kaldırıldı.

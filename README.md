@@ -14,6 +14,8 @@ Trunçgil Teknoloji #Finans #RestAPI'ın 2. versiyonu yayınlandı.
 - Değişim oranları eklendi. 
 4. versiyonda yenilikler
 - Altın bilgilerinde isimlendirmeler ve dizi yapısı üç harf kur kuralına göre yeniden belirlendi. 
+- Değişim oranlarındaki yüzdelik kaldırıldı.
+- Sayısal ifadelerdeki ondalık ve yüzler basamağındaki ayraçlar uluslararası standartlara getirildi. 
 
 
 Kullanım İçin:

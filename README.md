@@ -1,3 +1,5 @@
+# Yeni Finans API -> [Truncgil Finance API v5.0](https://finance.truncgil.com/)
+# Laravel Plugin -> (https://github.com/truncgil/laravel-truncgil-finance)
 # Finans API Kullanımı
 
 Bu belge, [Finans API](https://finans.truncgil.com/v4/today.json) kullanarak döviz ve altın fiyatlarını almak için farklı programlama dillerinde örnekler içermektedir.
